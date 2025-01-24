@@ -1,11 +1,9 @@
-![alt text](https://preview.ibb.co/hvJPyG/Abdullah_Almujalli.png)
 
 # Distributed file system  
 
 
-A distributed file system habdles the multthreading request using an operation system (Fork) from multiclients written with python 3.6.3. The program has two files a dfc.py and a dfs.py which use to get a file, put a file and list files. The dfs.py uses to creat four distributed servers (10001 - 10004) to handl three functions which are (PUT: to upload a file, GET: to download a file and LIST: to show the files in the DFS)  
+A distributed file system handels the multithreading request using an operation system (Fork) from multi-clients written with python 3.6.3. The program has two files a dfc.py and a dfs.py which use to get a file, put a file and list files. The dfs.py uses to creat four distributed servers (10001 - 10004) to handl three functions which are (PUT: to upload a file, GET: to download a file and LIST: to show the files in the DFS)  
 
-![alt text](https://preview.ibb.co/hctsSw/network.png)
 
 # Date and Version
 2017.03.12
@@ -130,12 +128,5 @@ DFS configuration
 Alice SimplePassword 
 Bob ComplexPassword
 ```
-Contact info.
-======================
-<a href="https://ibb.co/nq4DHw"><img src="https://preview.ibb.co/jOTvVG/contact_us_icon.jpg" alt="contact_us_icon" border="0"></a>
-
-Abdullah Almujalli 
-
-aalmujalli@outlook.com
 
 
